@@ -1,2 +1,2 @@
 # htmlcss-hello
-prova di creazione repo nuovo classe 139
+Esercizio boolean giorno 14/11/24
